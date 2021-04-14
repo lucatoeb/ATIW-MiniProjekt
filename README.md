@@ -1,2 +1,2 @@
 # ATIW-MiniProjekt
-Das zweiwöchige ATIW Mini-Projekt mit Datenbank und Implementation (Graphischer Oberfläche)
+Das zweiwöchige ATIW Mini-Projekt mit Datenbank und Implementation (Graphische Oberfläche)
